@@ -1,0 +1,25 @@
+{
+	"last_changed": "2021-09-26T12:39:26.000Z",
+	"cards": [
+		{
+			"id": 1,
+			"front": "Solve for x\n x + 5(x - 3) + 9 = 0",
+			"back": "x = 1"
+		},
+		{
+			"id": 2,
+			"front": "A farmer has a 150cm tall water trough, that fills at a rate of 10cm per minute. One morning, the water level is 40cm.\nHow long will it take to fill to capacity?",
+			"back": "11 minutes"
+		},
+		{
+			"id": 3,
+			"front": "The materials cost to build something in your engineering firm is $300.00 per cube meter.\nA client wants a conical event centre that is 76m at its widest point, and 120m tall. You convince them that nipple-esq buildings aren't in vogue, and chop off the top 30m of the initial design - while quoting the original amount.\nHow much have you saved in building costs capitalist swine?",
+			"back": "$13,609,379.38"
+		},
+		{
+			"id": 4,
+			"front": "q4",
+			"back": "a4"
+		}
+	]
+}
