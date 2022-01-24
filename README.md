@@ -4,22 +4,10 @@ An effective yet simple study app.  --- Entire local curriculums condensed into 
 
 Learn and apply concepts from past exams or fun examples, spend less time studying and ace your exams. 
 
-<style>
-	ul.row {
-	  height: 200;
-	  white-space: nowrap;
-	}
-
-	ul.row, li.pic {
-	  margin: 20px;
-	  list-style: none;
-	  display: flex;
-	}
-</style>
-<ul class="row">
-    <li class='pic'><img src="docs/mob1.png"></li>
-    <li class='pic'><img src="docs/mob2.png"></li>
-    <li class='pic'><img src="docs/mob3.png"></li>
+<p align="center">
+    <img width="200"src="docs/mob1.png">
+    <img width="200" src="docs/mob2.png">
+    <img width="200"src="docs/mob3.png">
 </ul>
 
 ## Features 🚀
@@ -66,10 +54,11 @@ flutter run -d <device label>
 - [ ] Local and remote flashcard progress save
 - [ ] User login and data storage
 
-## Contact :necktie:
 
-<ul class="row">
-    <li class='pic'><a href="mailto:yohanderose@gmail.com?subject=Hello">📧 Email</a></li>
-    <li class='pic'><a href="#">👨🏾 Website</a></li>
-    <li class='pic'><a href="https://www.buymeacoffee.com/yderose">🍻 Donate</a></li>
-</ul>
+<h2 align="center">Contact</h2>
+<p align='center'>
+	<a href="mailto:yohanderose@gmail.com?subject=Hello">📧 Email</a>
+	<a href="#">👨🏾 Website</a>
+	<a href="https://www.buymeacoffee.com/yderose">🍻 Donate</a>
+</p>
+
